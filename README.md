@@ -1,9 +1,9 @@
-# 🛒 Test Strategy: Swag-labs E-Commerce
+# Test Strategy: Swag-labs E-Commerce
 
 | Document Info | Details |
 | :--- | :--- |
 | **Project** | Swag-labs E-Commerce |
-| **QA Lead** | [YOUR NAME HERE] |
+| **QA Lead** | Kenneth Flororita |
 | **Version** | 1.0 |
 | **Estimated Duration** | 8 Business Days (~64 Hours) |
 
