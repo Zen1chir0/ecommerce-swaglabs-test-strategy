@@ -1,0 +1,1 @@
+# ecommerce-swaglabs-test-strategy
