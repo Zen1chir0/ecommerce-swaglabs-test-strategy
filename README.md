@@ -87,13 +87,13 @@ The test will implement "Persona-Based Testing" to mimic real-world app usage as
 ## 5. Defect Management / Bug Process
 All defects found will be documented in Jira to properly handle issues. The issues found are sought to be classified in:
 
-* **#Critical (Severity 1): Complete App Block**
+* **Critical (Severity 1): Complete App Block**
     * The user cannot even login or even complete checking out. This will be marked as critical because these issues will destroy the trust and usage of its users. Functional requirements aren't met.
-* **#High (Severity 2): Major feature breakage**
+* **High (Severity 2): Major feature breakage**
     * A workaround exists but it is difficult (e.g., "Sort by Price is broken"). Sought as High because the app does function but nowhere near enough to meet business requirements.
-* **#Medium (Severity 3): UI Issue**
+* **Medium (Severity 3): UI Issue**
     * Noticeable issues which require attention like product image misalignment causing UI distortion. Viewed as Medium which portrays not that heavy of an issue but can still crack the company's image.
-* **#Low (Severity 4): Minor Typo or QA suggestion**
+* **Low (Severity 4): Minor Typo or QA suggestion**
     * Simple issues that can still somehow affect the company's uniformity. Might be minor Typo in footer, issues deemed as "Low" because it doesn't affect the company normally but can still be noticeable when one really seeks for issues.
 
 ---
